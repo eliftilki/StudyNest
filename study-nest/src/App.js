@@ -2,6 +2,11 @@ import logo from './logo.svg';
 import './App.css';
 import Index from './components/index.jsx';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Courses from './components/courses.jsx';
+import Login from './components/Login.jsx';
+import Register from './components/Register.jsx';
+import Contact from './components/Contact.jsx';
+import Navbar from './components/Navbar.jsx';
 
 function App() {
   return (
@@ -25,6 +30,12 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/" element={<Index/>} />
+          <Route exact path="/navbar" element={<Navbar/>} />
+          <Route exact path="/courses" element={<Courses/>} />
+          {/* <Route exact path="/courses/:courseId" element={<Courses/>} /> */}
+          <Route exact path="/login" element={<Login/>} />
+          <Route exact path="/register" element={<Register/>} />
+          <Route exact path="/contact" element={<Contact/>} />
         </Routes>
       </Router>
     </>
