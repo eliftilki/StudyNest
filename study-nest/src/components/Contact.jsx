@@ -1,10 +1,14 @@
 import React from 'react';
 import { Formik, Form, Field, ErrorMessage } from 'formik';
+
 import { useState } from 'react';
 import * as Yup from 'yup';
 import  { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import Swal from 'sweetalert2';
+import Navbar from './Navbar';
+import Footer from './Footer';
+import '../styles/assets/css/contact.css';
 const Contact = () => {
   const initialValues = {
     firstName: '',
@@ -54,13 +58,18 @@ const Contact = () => {
 
   return (
     <div>
-      <h2>{lng === "en" ? "Contacts Form" : "İletisim Formu"}</h2>
-      <Formik
+      <Navbar />
+      <h2 style={{textAlign:"center",marginTop:"7%"}}>Contact Form</h2>
+      <div className='main-section'>
+      <div className='container'>
+        <div className='row'>
+          
+          <Formik
         initialValues={initialValues}
         validationSchema={validationSchema}
         onSubmit={handleSubmit}
       >
-        <Form >
+        <Form  className='contact-form'>
           <div className="form-group">
             <label htmlFor="firstName">{lng === "en" ? "Name" : "İsim"}</label>
             <Field type="text" name="firstName" className="form-control" />
@@ -81,9 +90,17 @@ const Contact = () => {
             <Field as="textarea" name="message" className="form-control" />
             <ErrorMessage name="message" component="div" className="text-danger" />
           </div>
-          <button type="submit" className="btn btn-primary">{lng === "en" ? "Send" : "Gönder"}</button>
+          <button type="submit" className="btn btn-primary btn-send">{lng === "en" ? "Send" : "Gönder"}</button>
         </Form>
       </Formik>
+          
+        </div>
+
+      </div>
+      </div>
+      
+      
+      <Footer></Footer>
     </div>
   );
 };

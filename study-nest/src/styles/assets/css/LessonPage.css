@@ -1,0 +1,54 @@
+.lesson-page {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .chapter-list {
+    width: 25%;
+    float: left;
+  }
+  
+  .chapter-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .chapter-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .chapter-list ul li {
+    margin-bottom: 5px;
+  }
+  
+  .lesson-content {
+    width: 75%;
+    float: left;
+  }
+  
+  .video-player {
+    margin-bottom: 20px;
+  }
+  
+  .text-content {
+    margin-bottom: 20px;
+  }
+  
+  .navigation-buttons {
+    text-align: center;
+  }
+  
+  .navigation-buttons button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .navigation-buttons button:hover {
+    background-color: #0056b3;
+  }
+  

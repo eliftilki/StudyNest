@@ -7,6 +7,8 @@ import Login from './components/Login.jsx';
 import Register from './components/Register.jsx';
 import Contact from './components/Contact.jsx';
 import Navbar from './components/Navbar.jsx';
+import Categories from './components/Categories.jsx';
+import CategoriesDetail from './components/CategorieDetail.jsx';
 
 function App() {
   return (
@@ -30,12 +32,14 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/" element={<Index/>} />
-          <Route exact path="/navbar" element={<Navbar/>} />
+          {/* <Route exact path="/navbar" element={<Navbar/>} /> */}
           <Route exact path="/courses" element={<Courses/>} />
           {/* <Route exact path="/courses/:courseId" element={<Courses/>} /> */}
           <Route exact path="/login" element={<Login/>} />
           <Route exact path="/register" element={<Register/>} />
           <Route exact path="/contact" element={<Contact/>} />
+          <Route exact path="/categories" element={<Categories/>} />
+          <Route exact path="/categoriesDetail" element={<CategoriesDetail/>} />
         </Routes>
       </Router>
     </>

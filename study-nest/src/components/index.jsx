@@ -18,7 +18,21 @@ import '../styles/assets/css/index.css'
 import icon1 from '../images/img/icon/icon1.svg';
 import icon2 from '../images/img/icon/icon2.svg';
 import icon3 from '../images/img/icon/icon3.svg';
-
+import icon4 from '../styles/assets/img/icon/right-icon.svg';
+import courses1 from '../styles/assets/img/gallery/featured1.png';
+import courses2 from '../styles/assets/img/gallery/featured2.png';
+import courses3 from '../styles/assets/img/gallery/featured3.png';
+import about from '../styles/assets/img/icon/about.svg';
+import topic1 from '../styles/assets/img/gallery/topic1.png';
+import topic2 from '../styles/assets/img/gallery/topic2.png';
+import topic3 from '../styles/assets/img/gallery/topic3.png';
+import topic4 from '../styles/assets/img/gallery/topic4.png';
+import topic5 from '../styles/assets/img/gallery/topic5.png';
+import topic6 from '../styles/assets/img/gallery/topic6.png';
+import topic7 from '../styles/assets/img/gallery/topic7.png';
+import topic8 from '../styles/assets/img/gallery/topic8.png';
+import about3 from '../styles/assets/img/gallery/about3.png';
+import Footer from './Footer.jsx';
 function index () {
 
   return (
@@ -85,7 +99,7 @@ function index () {
             </div>
         </div>
         {/* <!-- Courses area start --> */}
-        <div className="courses-area section-padding40 fix">
+        <div className="courses-area section-padding40 fix" >
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-xl-7 col-lg-8">
@@ -94,12 +108,12 @@ function index () {
                         </div>
                     </div>
                 </div>
-                <div className="courses-actives">
+                <div className="courses-actives slick-initialized slick-slider">
                     {/* <!-- Single --> */}
-                    <div className="properties pb-20">
+                    <div className="properties pb-20  slick-slide slick-cloned">
                         <div className="properties__card">
                             <div className="properties__img overlay1">
-                                <a href="#"><img src="assets/img/gallery/featured1.png" alt=""></img></a>
+                                <a href="#"><img src={courses1} alt=""></img></a>
                             </div>
                             <div className="properties__caption">
                                 <p>User Experience</p>
@@ -132,7 +146,7 @@ function index () {
                     <div className="properties pb-20">
                         <div className="properties__card">
                             <div className="properties__img overlay1">
-                                <a href="#"><img src="assets/img/gallery/featured2.png" alt=""></img></a>
+                                <a href="#"><img src={courses2} alt=""></img></a>
                             </div>
                             <div className="properties__caption">
                                 <p>User Experience</p>
@@ -163,7 +177,7 @@ function index () {
                     <div className="properties pb-20">
                         <div className="properties__card">
                             <div className="properties__img overlay1">
-                                <a href="#"><img src="assets/img/gallery/featured3.png" alt=""></img></a>
+                                <a href="#"><img src={courses3} alt=""></img></a>
                             </div>
                             <div className="properties__caption">
                                 <p>User Experience</p>
@@ -196,7 +210,7 @@ function index () {
                     <div className="properties pb-20">
                         <div className="properties__card">
                             <div className="properties__img overlay1">
-                                <a href="#"><img src="assets/img/gallery/featured2.png" alt=""></img></a>
+                                <a href="#"><img src={courses1} alt=""></img></a>
                             </div>
                             <div className="properties__caption">
                                 <p>User Experience</p>
@@ -230,11 +244,12 @@ function index () {
         </div>
         {/* <!-- Courses area End --> */}
         {/* <!--? About Area-1 Start --> */}
+        <div className='container'>
         <section className="about-area1 fix pt-10">
             <div className="support-wrapper align-items-center">
                 <div className="left-content1">
                     <div className="about-icon">
-                        <img src="assets/img/icon/about.svg" alt=""></img>
+                        <img src={about} alt=""></img>
                     </div>
                     {/* <!-- section tittle --> */}
                     <div className="section-tittle section-tittle2 mb-55">
@@ -247,7 +262,7 @@ function index () {
                     </div>
                     <div className="single-features">
                         <div className="features-icon">
-                            <img src="assets/img/icon/right-icon.svg" alt=""></img>
+                            <img src={icon4} alt=""></img>
                         </div>
                         <div className="features-caption">
                             <p>Techniques to engage effectively with vulnerable children and young people.</p>
@@ -255,7 +270,7 @@ function index () {
                     </div>
                     <div className="single-features">
                         <div className="features-icon">
-                            <img src="assets/img/icon/right-icon.svg" alt=""></img>
+                            <img src={icon4} alt=""></img>
                         </div>
                         <div className="features-caption">
                             <p>Join millions of people from around the world  learning together.</p>
@@ -264,15 +279,15 @@ function index () {
 
                     <div className="single-features">
                         <div className="features-icon">
-                            <img src="assets/img/icon/right-icon.svg" alt=""></img>
+                            <img src={icon4} alt=""></img>
                         </div>
                         <div className="features-caption">
                             <p>Join millions of people from around the world learning together. Online learning is as easy and natural.</p>
                         </div>
                     </div>
                 </div>
-                <div className="right-content1">
-                    {/* <!-- img --> */}
+                {/* <div className="right-content1">
+                    
                     <div className="right-img">
                         <img src="assets/img/gallery/about.png" alt=""></img>
 
@@ -280,9 +295,11 @@ function index () {
                             <a className="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0"><i className="fas fa-play"></i></a>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </section>
+        </div>
+       
         {/* <!-- About Area End -->
         <!--? top subjects Area Start --> */}
         <div className="topic-area section-padding40">
@@ -295,10 +312,10 @@ function index () {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6 " style={{marginTop:"1rem", marginBottom:"1rem"}} >
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic1.png" alt=""></img>
+                                <img src={topic1} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -307,10 +324,10 @@ function index () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic2.png" alt=""></img>
+                                <img src={topic2} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -319,10 +336,10 @@ function index () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic3.png" alt=""></img>
+                                <img src={topic3} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -331,10 +348,10 @@ function index () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic4.png" alt=""></img>
+                                <img src={topic4} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -343,10 +360,10 @@ function index () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic5.png" alt=""></img>
+                                <img src={topic5} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -355,10 +372,10 @@ function index () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic6.png" alt=""></img>
+                                <img src={topic6} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -367,10 +384,10 @@ function index () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic7.png" alt=""></img>
+                                <img src={topic7} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -379,10 +396,10 @@ function index () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-lg-3 col-md-4 col-sm-6" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                         <div className="single-topic text-center mb-30">
                             <div className="topic-img">
-                                <img src="assets/img/gallery/topic8.png" alt=""></img>
+                                <img src={topic8} alt=""></img>
                                 <div className="topic-content-box">
                                     <div className="topic-content">
                                         <h3><a href="#">Programing</a></h3>
@@ -392,7 +409,7 @@ function index () {
                         </div>
                     </div>
                 </div>
-                <div className="row justify-content-center">
+                <div className="row justify-content-center" style={{marginTop:"1rem", marginBottom:"1rem"}}>
                     <div className="col-xl-12">
                         <div className="section-tittle text-center mt-20">
                             <a href="courses.html" className="border-btn">View More Subjects</a>
@@ -407,7 +424,7 @@ function index () {
                 <div className="right-content3">
                     {/* <!-- img --> */}
                     <div className="right-img">
-                        <img src="assets/img/gallery/about3.png" alt=""></img>
+                        <img src={about3} alt="" style={{width:"100%"}}></img>
                     </div>
                 </div>
                 <div className="left-content3">
@@ -419,7 +436,7 @@ function index () {
                     </div>
                     <div className="single-features">
                         <div className="features-icon">
-                            <img src="assets/img/icon/right-icon.svg" alt=""></img>
+                            <img src={icon4} alt=""></img>
                         </div>
                         <div className="features-caption">
                             <p>Techniques to engage effectively with vulnerable children and young people.</p>
@@ -427,7 +444,7 @@ function index () {
                     </div>
                     <div className="single-features">
                         <div className="features-icon">
-                            <img src="assets/img/icon/right-icon.svg" alt=""></img>
+                            <img src={icon4} alt=""></img>
                         </div>
                         <div className="features-caption">
                             <p>Join millions of people from around the world
@@ -436,7 +453,7 @@ function index () {
                     </div>
                     <div className="single-features">
                         <div className="features-icon">
-                            <img src="assets/img/icon/right-icon.svg" alt=""></img>
+                            <img src={icon4} alt=""></img>
                         </div>
                         <div className="features-caption">
                             <p>Join millions of people from around the world learning together.
@@ -448,7 +465,7 @@ function index () {
         </section>
         {/* <!-- About Area End -->
         <!--? Team --> */}
-        <section className="team-area section-padding40 fix">
+        {/* <section className="team-area section-padding40 fix">
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-xl-7 col-lg-8">
@@ -505,19 +522,19 @@ function index () {
                     </div>
                 </div>
             </div>
-        </section>
+        </section> */}
         {/* <!-- Services End -->
         <!--? About Area-2 Start --> */}
-        <section className="about-area2 fix pb-padding">
+        {/* <section className="about-area2 fix pb-padding">
             <div className="support-wrapper align-items-center">
                 <div className="right-content2">
-                    {/* <!-- img --> */}
+                  
                     <div className="right-img">
                         <img src="assets/img/gallery/about2.png" alt=""></img>
                     </div>
                 </div>
                 <div className="left-content2">
-                    {/* <!-- section tittle --> */}
+                   
                     <div className="section-tittle section-tittle2 mb-20">
                         <div className="front-text">
                             <h2 className="">Take the next step
@@ -530,100 +547,10 @@ function index () {
                     </div>
                 </div>
             </div>
-        </section>
+        </section> */}
         {/* <!-- About Area End --> */}
     </main>
-    <footer>
-     <div className="footer-wrappper footer-bg">
-        {/* <!-- Footer Start--> */}
-        <div className="footer-area footer-padding">
-            <div className="container">
-                <div className="row justify-content-between">
-                    <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
-                        <div className="single-footer-caption mb-50">
-                            <div className="single-footer-caption mb-30">
-                                {/* <!-- logo --> */}
-                                <div className="footer-logo mb-25">
-                                    <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></img></a>
-                                </div>
-                                <div className="footer-tittle">
-                                    <div className="footer-pera">
-                                        <p>The automated process starts as soon as your clothes go into the machine.</p>
-                                    </div>
-                                </div>
-                                {/* <!-- social --> */}
-                                <div className="footer-social">
-                                    <a href="#"><i className="fab fa-twitter"></i></a>
-                                    <a href="https://bit.ly/sai4ull"><i className="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i className="fab fa-pinterest-p"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
-                        <div className="single-footer-caption mb-50">
-                            <div className="footer-tittle">
-                                <h4>Our solutions</h4>
-                                <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                        <div className="single-footer-caption mb-50">
-                            <div className="footer-tittle">
-                                <h4>Support</h4>
-                                <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                        <div className="single-footer-caption mb-50">
-                            <div className="footer-tittle">
-                                <h4>Company</h4>
-                                <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        {/* <!-- footer-bottom area --> */}
-        <div className="footer-bottom-area">
-            <div className="container">
-                <div className="footer-border">
-                    <div className="row d-flex align-items-center">
-                        <div className="col-xl-12 ">
-                            <div className="footer-copy-right text-center">
-                                <p>Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. </p>
-                                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i className="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                                  {/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p> */}
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-          {/* <!-- Footer End--> */}
-      </div>
-  </footer> 
+   <Footer></Footer>
   {/* <!-- Scroll Up --> */}
   <div id="back-top" >
     <a title="Go to Top" href="#"> <i className="fas fa-level-up-alt"></i></a>

@@ -5,8 +5,8 @@ function Register() {
         <div className="container">
             <div className="row justify-content-center">
             <div className="col-lg-6 col-md-12">
-                <div className="login-form">
-                <h3>Register</h3>
+                <div className="login-form" style={{marginTop:"50%"}}>
+                <h3 style={{textAlign:"center",marginBottom:"2rem"}}>Register</h3>
                 <form>
                     <div className="form-group">
                     <label>Username</label>
@@ -25,7 +25,7 @@ function Register() {
                     <input type="password" className="form-control" placeholder="Confirm Password" />
                     </div>
                     <div className="form-group form-button">
-                    <button type="submit" className="btn btn-primary">Register</button>
+                    <button type="submit" className="btn btn-primary" style={{fontSize:"1.5rem"}}>Register</button>
                     </div>
                 </form>
                 </div>

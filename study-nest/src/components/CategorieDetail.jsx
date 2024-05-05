@@ -1,5 +1,18 @@
 import React from 'react';
-
+// import '../styles/assets/css/style.css';
+// import '../styles/assets/css/bootstrap.min.css';
+// import '../styles/assets/css/owl.carousel.min.css';
+// import '../styles/assets/css/slicknav.css';
+// import '../styles/assets/css/flaticon.css';
+// import '../styles/assets/css/progressbar_barfiller.css';
+// import '../styles/assets/css/gijgo.css';
+// import '../styles/assets/css/animate.min.css'; 
+// import '../styles/assets/css/animated-headline.css';
+// import '../styles/assets/css/magnific-popup.css';
+// import '../styles/assets/css/fontawesome-all.min.css';
+// import '../styles/assets/css/themify-icons.css';
+// import '../styles/assets/css/slick.css';
+// import '../styles/assets/css/nice-select.css';
 import Navbar from './Navbar.jsx';
 import Footer from './Footer.jsx';
 import feature1 from '../styles/assets/img/gallery/featured1.png';
@@ -21,7 +34,8 @@ import icon1 from '../styles/assets/img/icon/icon3.svg';
 import icon2 from '../styles/assets/img/icon/icon2.svg';
 import icon3 from '../styles/assets/img/icon/icon1.svg';
 import { Link } from 'react-router-dom';
-function courses() {
+/// bu sayfa sadece o kategoriye ait dersleri gösterir 
+function CategorieDetail() {
   return (
     <div>
         <Navbar></Navbar>
@@ -438,4 +452,4 @@ function courses() {
     </div>
   );
 }
-export default courses;
+export default CategorieDetail;
