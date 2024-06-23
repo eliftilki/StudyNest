@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\art.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\art.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\cooking.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\cooking.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\design.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\design.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\music.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\music.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\personel.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\personel.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\photography.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\photography.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\programming.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\programming.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\categories\\sport.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\sport.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\courses\\featured1.png",
+      "PackagePath": "staticwebassets\\uploads\\courses\\featured1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\courses\\featured2.png",
+      "PackagePath": "staticwebassets\\uploads\\courses\\featured2.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\courses\\featured3.png",
+      "PackagePath": "staticwebassets\\uploads\\courses\\featured3.png"
+    },
+    {
+      "Id": "C:\\Users\\Sude Nur\\Downloads\\StudyNest2.4\\StudyNest2\\StudyNest2\\wwwroot\\uploads\\courses\\featured4.png",
+      "PackagePath": "staticwebassets\\uploads\\courses\\featured4.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudyNest2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudyNest2.props",
+      "PackagePath": "build\\StudyNest2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudyNest2.props",
+      "PackagePath": "buildMultiTargeting\\StudyNest2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudyNest2.props",
+      "PackagePath": "buildTransitive\\StudyNest2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

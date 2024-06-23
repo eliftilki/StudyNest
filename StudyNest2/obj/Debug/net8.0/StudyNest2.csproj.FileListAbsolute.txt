@@ -1,0 +1,161 @@
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.csproj.AssemblyReference.cache
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.AssemblyInfoInputs.cache
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.AssemblyInfo.cs
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.csproj.CoreCompileInputs.cache
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\appsettings.json
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.exe
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.deps.json
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.runtimeconfig.json
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.pdb
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Ninject.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Business.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Core.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Entities.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Business.pdb
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Core.pdb
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Entities.pdb
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.StudyNest2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.build.StudyNest2.props
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudyNest2.props
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudyNest2.props
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\scopedcss\bundle\StudyNest2.styles.css
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.csproj.CopyComplete
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\refint\StudyNest2.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.pdb
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.genruntimeconfig.cache
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\obj\Debug\net8.0\ref\StudyNest2.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELİF\Source\Repos\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\appsettings.json
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.exe
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.deps.json
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.runtimeconfig.json
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.pdb
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Ninject.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Business.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Core.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Entities.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Business.pdb
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Core.pdb
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\Entities.pdb
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.csproj.AssemblyReference.cache
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.AssemblyInfoInputs.cache
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.AssemblyInfo.cs
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.csproj.CoreCompileInputs.cache
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.StudyNest2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.build.StudyNest2.props
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudyNest2.props
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudyNest2.props
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\scopedcss\bundle\StudyNest2.styles.css
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.csproj.CopyComplete
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\refint\StudyNest2.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.pdb
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\StudyNest2.genruntimeconfig.cache
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\obj\Debug\net8.0\ref\StudyNest2.dll
+C:\Users\Sude Nur\Downloads\StudyNest2.4\StudyNest2\StudyNest2\bin\Debug\net8.0\StudyNest2.staticwebassets.runtime.json
